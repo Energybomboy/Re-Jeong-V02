@@ -1,0 +1,18 @@
+{
+	"name": "TKM-Slayer",
+	"description": "fuck u",
+	"repository": "https://github.com/Cod3Uchiha/TKM",
+	"logo": "https://telegra.ph/file/81e9db8054a9f1b48199b.jpg",
+	"keywords": ["multi-device"],
+"buildpacks": [
+      {
+        "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+          }
+     ]
+}
