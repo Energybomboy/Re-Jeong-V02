@@ -1,1 +1,1 @@
-worker: node tkm.js
+worker: node gay.js
