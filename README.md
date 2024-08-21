@@ -5,7 +5,7 @@
 
 
 <a
-href="https://whatsapp.com/channel/0029Vade9VgD38CPEnxfYF0M">
+href="https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h">
  <img alt="JOEL BUG BOT" height="300" src="https://telegra.ph/file/019207dd7bf306d343b7e.jpg">
   
 </h1> 
